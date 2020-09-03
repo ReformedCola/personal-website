@@ -17,9 +17,9 @@
   export default class SocialList extends Vue {
     social = [
       {label: 'Github', icon: '#icon-github', link: 'https://github.com/ReformedCola'},
-      {label: '邮箱', icon: '#icon-mail', link: 'mailto:zhiyuanfw@gmail.com'},
-      {label: 'Medium', icon: '#icon-medium', link: 'https://medium.com/@haixiang6123'},
-      {label: '守望先锋', icon: '#icon-overwatch', link: 'https://playoverwatch.com/en-us/career/pc/Monster-14255'},
+      {label: 'Email', icon: '#icon-mail', link: 'mailto:zhiyuanfw@gmail.com'},
+      {label: 'Medium', icon: '#icon-medium', link: 'https://medium.com/@zhiyuanhe0610'},
+      {label: 'LoL', icon: '#icon-overwatch', link: 'https://na.op.gg/summoner/userName=colachick'},
     ]
   }
 </script>
