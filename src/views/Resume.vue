@@ -1,5 +1,5 @@
 <template>
-  <a href='src/assets/JasonHe_Resume.pdf' target="_blank">Resume</a>
+  <a href="https://github.com/ReformedCola/personal-website/blob/master/src/assets/JasonHe_Resume.pdf" target="_blank">Resume</a>
 </template>
 
 <script lang="ts">
@@ -8,7 +8,6 @@
 
   @Component
   export default class Resume extends Vue {
-
   }
 </script>
 
