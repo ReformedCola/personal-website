@@ -1,16 +1,5 @@
 <template>
   <ul class="tool-list">
-<!--    <li>-->
-<!--      🔨 开发喜欢 WebStorm + IdeaVim 的搭配，已经放弃-->
-<!--      <span class="deprecated">Sublime、Atom、VsCode</span>-->
-<!--    </li>-->
-<!--    <li>💻 在 iTerm2.app + zshell 里运行命令行</li>-->
-<!--    <li>-->
-<!--      📖 在 Bear.app 记笔试，中文博客发在-->
-<!--      <a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">简书</a>-->
-<!--      ，英文博客发在-->
-<!--      <a href="https://medium.com/@haixiang6123" target="_blank">Medium</a>-->
-<!--    </li>-->
     <li>🔨 Webstorm / VSCode for development</li>
     <li>💻 iTerm2 + Z Shell for running command lines</li>
     <li>
