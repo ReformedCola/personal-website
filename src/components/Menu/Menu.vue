@@ -17,7 +17,6 @@
   export default class Menu extends Vue {
     menu: TMenuItem[] = [
       {route: '/', label: 'Home', icon: 'el-icon-user'},
-      {route: '/about', label: 'About', icon: 'el-icon-notebook-1'},
       {route: '/projects', label: 'Projects', icon: 'el-icon-suitcase'},
       {route: '/resume', label: 'Resume', icon: 'el-icon-s-order'},
     ]
