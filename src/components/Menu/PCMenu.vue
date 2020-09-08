@@ -1,7 +1,7 @@
 <template>
   <div class="pc-menu">
     <router-link to="/">
-      Zhiyuan He
+      Zhiyuan He's Personal Website
     </router-link>
 
     <ul class="menu">

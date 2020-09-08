@@ -3,7 +3,7 @@
     <div class="item">
       <h1>Me</h1>
       <p>
-        A new grad with Bachelor's degree in Computational Mathematics from
+        A new grad with degree of Bachelor of Science in Computational Mathematics from
         <a href="https://www.ucr.edu/" target="_blank">UC Riverside</a>.
         <br/>
         <br/>
