@@ -50,7 +50,7 @@
       }
 
       .buttons {
-        min-width: 20%;
+        min-width: 25%;
         text-align: right;
       }
     }
