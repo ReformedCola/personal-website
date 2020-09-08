@@ -9,6 +9,7 @@ import {
   Avatar,
   Image,
   Drawer,
+  Backtop,
 } from 'element-ui'
 
 import 'element-ui/lib/theme-chalk/index.css'
@@ -23,3 +24,4 @@ Vue.component(Radio.name, Radio)
 Vue.component(Avatar.name, Avatar)
 Vue.component(Image.name, Image)
 Vue.component(Drawer.name, Drawer)
+Vue.component(Backtop.name, Backtop)

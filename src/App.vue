@@ -5,6 +5,7 @@
       <router-view></router-view>
     </div>
     <Footer></Footer>
+    <el-backtop target="#app"></el-backtop>
   </div>
 </template>
 
@@ -31,8 +32,14 @@
     font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
   }
 
+  html, body {
+    height: 100%;
+  }
+
   #app {
     color: #2c3e50;
+    overflow: auto; // scroll works too
+    height: 100%;
 
     .views {
       max-width: 780px;
