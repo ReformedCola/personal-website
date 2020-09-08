@@ -10,7 +10,7 @@
 
       <p class="name">Zhiyuan He</p>
 
-      <p class="title">Frontend Engineer / League Zealot</p>
+      <p class="title">Frontend Engineer / League of Legends Zealot</p>
     </div>
   </div>
 </template>
