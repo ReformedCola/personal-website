@@ -1,4 +1,4 @@
-export const githubResBaseUrl = 'http://reformedcola.github.io'
+export const githubResBaseUrl = 'http://horzhiyuan.com'
 
 export const getRepoUrl = (repo: string) =>
   `${githubResBaseUrl}/${repo}`
