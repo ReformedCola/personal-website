@@ -2,6 +2,14 @@ import {getRepoUrl} from '@/lib/constants'
 
 const projectsDB: TPortfolioItem[] = [
   {
+    title: 'Snowflake UI',
+    desc: 'A simple and useful UI Library built with Vue.js.',
+    url: getRepoUrl('snowflake-ui'),
+    github: 'https://github.com/ReformedCola/snowflake-ui',
+    languages: ['Vue', 'JavaScript'],
+    stars: 1
+  },
+  {
     title: 'iExpense - React',
     desc: 'A bookkeeping single-page application built with React.ts and React Hooks.',
     url: getRepoUrl('iExpense-react-website'),
