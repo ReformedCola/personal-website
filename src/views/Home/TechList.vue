@@ -1,9 +1,15 @@
 <template>
   <ul class="tech-list">
-    <li>Frontend (ES6, TypeScript, React.js, Vue.js, Sass, HTML5, CSS3, etc)</li>
-    <li>Backend (Node.js, MySQL)</li>
-    <li>Unit Test (Jest, Mocha, Sinon, Karma, Travis Cli, etc)</li>
-    <li>Currently learning Python, Java</li>
+    <li>🛡️ <b>Cybersecurity:</b></li>
+    <li>Security Onion, Sophos Security, NodeZero, Elastic Stack, WireShark</li>
+    <li>Velociraptor, AC-Hunter, RITA, OWASP ZAP, and more</li>
+    <br/>
+    <li>🌐 <b>Web Development:</b></li>
+    <li>Languages: JavaScript, TypeScript, HTML5, CSS3, SASS</li>
+    <li>Libraries: React.js, Vue.js, Redux, Zustand</li>
+    <li>Frameworks: Next.js, Vite.js</li>
+    <li>Unit Test: Jest, Mocha, Sinon, Chai, Karma, Travis Cli</li>
+    <li>Currently learning Java, Ruby, Rust, and more</li>
   </ul>
 </template>
 

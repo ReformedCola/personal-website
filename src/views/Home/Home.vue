@@ -3,13 +3,16 @@
     <div class="item">
       <h1>Me</h1>
       <p>
-        A new grad with degree of Bachelor of Science in Computational Mathematics from
-        <a href="https://www.ucr.edu/" target="_blank">UC Riverside</a>.
+        I’m a Cybersecurity Analyst with a strong foundation in Frontend Engineering. After several years of 
         <br/>
         <br/>
-        I'm currently seeking for a
-        <a href="https://work.chron.com/frontend-engineer-16867.html#:~:text=A%20front%2Dend%20engineer%2C%20also,interface%20elements%20of%20a%20website.&text=Job%20prospects%20remain%20strong%20for,are%20accessible%20on%20mobile%20devices." target="_blank">Frontend Engineer</a>
-        job opportunity.
+        building responsive, user-friendly web applications, I’ve transitioned into cybersecurity, focusing on
+        <br/>
+        <br/>
+        threat detection, incident response, and security improvements. I’m now seeking new opportunities
+        <br/>
+        <br/> 
+        where I can combine my tech background with my passion for cybersecurity.
       </p>
       <el-button @click="showMore = !showMore" type="text">
         {{showMoreText}}<i :class="showMore ? 'el-icon-caret-top' : 'el-icon-caret-bottom'"/>

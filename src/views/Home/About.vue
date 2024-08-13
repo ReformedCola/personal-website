@@ -1,12 +1,11 @@
 <template>
   <ul class="about">
-    <li>🔰 Self learner for Web Development</li>
-    <li>😎 Passionate coder with pixel eyes</li>
-    <li>💻 Usually code in ES6 / TS with React / Vue</li>
-    <li>📌 React / Redux / React Hooks is my primary area of expertise on the frontend</li>
-    <li>🎯 Learning backend as well (Java, Ruby, Express, MongoDB, etc)</li>
-    <li>📍 Living in San Francisco bay area</li>
+    <li>🎓 Transitioned from Frontend Development to Cybersecurity</li>
+    <li>🔍 Specializing in security tools like Security Onion, Sophos, and Wireshark</li>
+    <li>💻 Extensive experience with JS / TS, React, and Vue</li>
+    <li>📍 Based in Gig Harbor, WA</li>
     <li>👌 Authorized to work in the U.S without sponsorship</li>
+    <li>👨‍💻 Open to opportunities in cybersecurity and frontend software development</li>
   </ul>
 </template>
 
