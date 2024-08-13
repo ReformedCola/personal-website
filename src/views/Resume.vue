@@ -1,11 +1,11 @@
 <template>
   <!-- <a href="https://github.com/ReformedCola/personal-website/blob/master/src/assets/JasonHe_Resume.pdf" target="_blank">Resume</a> -->
   <div class="resume-container">
-    <iframe 
+    <!-- <iframe 
       src="/public/resume.pdf" 
       width="100%" 
       height="600px">
-    </iframe>
+    </iframe> -->
     <p>
       <a href="/public/resume.pdf" download>
         📄 Download My Resume
