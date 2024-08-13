@@ -25,6 +25,11 @@
     </div>
 
     <div v-show="showMore" class="item">
+      <h1>Certification</h1>
+      <CertList/>
+    </div>
+
+    <div v-show="showMore" class="item">
       <h1>Tech</h1>
       <TechList/>
     </div>
@@ -48,10 +53,11 @@
   import SocialList from '@/views/Home/SocialList.vue'
   import ToolList from '@/views/Home/ToolList.vue'
   import TechList from '@/views/Home/TechList.vue'
+  import CertList from '@/views/Home/CertList.vue'
   import About from '@/views/Home/About.vue'
 
   @Component({
-    components: {About, SocialList, ToolList, TechList}
+    components: {About, SocialList, ToolList, TechList, CertList}
   })
   export default class Home extends Vue {
     showMore = false
