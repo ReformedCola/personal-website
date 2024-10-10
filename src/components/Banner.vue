@@ -24,7 +24,7 @@
     components: {Menu}
   })
   export default class Banner extends Vue {
-    avatar = require('../assets/avatar.jpeg')
+    avatar = require('../assets/1.png')
   }
 </script>
 

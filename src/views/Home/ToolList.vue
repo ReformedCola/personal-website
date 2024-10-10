@@ -1,6 +1,6 @@
 <template>
   <ul class="tool-list">
-    <li>🔨 Development: WebStorm / VSCode for coding</li>
+    <li>🔨 Development: Cursor / WebStorm / VSCode for coding</li>
     <li>💻 Command Line: iTerm2 + Z Shell, PowerShell</li>
     <li>📖 Productivity: Notion / Obsidian for notes</li>
   </ul>
